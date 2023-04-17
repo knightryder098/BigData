@@ -11,3 +11,4 @@ Install extension from VsCode extension
 
 # run the BigDataCode.ipynb notebook
   
+### make sure to change the path of the dataset in the jupyter notebook
